@@ -1,3 +1,8 @@
 # linear
 
-add description of linear here
+Toy language with a linear type system.
+
+```
+stack setup
+stack install
+```
